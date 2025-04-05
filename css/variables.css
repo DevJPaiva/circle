@@ -1,0 +1,27 @@
+@charset 'UTF-8';
+
+@font-face {
+    font-family: 'Alexandria';
+    src: url('../font/static/Alexandria-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alexandria';
+    src: url('../font/static/Alexandria-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+:root {
+    --primary-color: #041643;
+    --secondary-color: #1352F1;
+    --text-color: #d2d2d2;
+    --font-family: 'Alexandria', sans-serif;
+    --font-size: 8px;
+    --font-size-small: 10px;
+    --font-size-large: 12px;
+    --font-size-xlarge: 14px;
+    --font-size-xxlarge: 26px;
+}

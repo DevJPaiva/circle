@@ -1,0 +1,10 @@
+@charset "UTF-8";
+@import url('../css/variables.css');
+
+
+*{
+    font-family: 'Alexandria', sans-serif;
+    color: var(--text-color);
+    background-color: var(--primary-color);
+}
+

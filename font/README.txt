@@ -1,26 +1,26 @@
-Catamaran Variable Font
-=======================
+Alexandria Variable Font
+========================
 
-This download contains Catamaran as both a variable font and static fonts.
+This download contains Alexandria as both a variable font and static fonts.
 
-Catamaran is a variable font with this axis:
+Alexandria is a variable font with this axis:
   wght
 
 This means all the styles are contained in a single file:
-  Catamaran-VariableFont_wght.ttf
+  Alexandria-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Catamaran:
-  static/Catamaran-Thin.ttf
-  static/Catamaran-ExtraLight.ttf
-  static/Catamaran-Light.ttf
-  static/Catamaran-Regular.ttf
-  static/Catamaran-Medium.ttf
-  static/Catamaran-SemiBold.ttf
-  static/Catamaran-Bold.ttf
-  static/Catamaran-ExtraBold.ttf
-  static/Catamaran-Black.ttf
+in those cases you can use the static font files for Alexandria:
+  static/Alexandria-Thin.ttf
+  static/Alexandria-ExtraLight.ttf
+  static/Alexandria-Light.ttf
+  static/Alexandria-Regular.ttf
+  static/Alexandria-Medium.ttf
+  static/Alexandria-SemiBold.ttf
+  static/Alexandria-Bold.ttf
+  static/Alexandria-ExtraBold.ttf
+  static/Alexandria-Black.ttf
 
 Get started
 -----------
